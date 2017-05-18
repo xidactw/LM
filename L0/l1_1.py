@@ -1,10 +1,8 @@
-import pandas as pd
 import matplotlib.pyplot as plt
-import tensorflow as tf
+import pandas as pd
+import  tensorflow as tf
 
 data = pd.read_csv('t1.csv')
-
-
 x = data[['TV','Radio','Newspaper']]
 y = data['Sales']
 

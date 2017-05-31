@@ -25,3 +25,7 @@ plt.grid()
 plt.tight_layout()
 plt.show()
 
+录视频
+安装 玛雅环境
+整理玛雅代码
+python测试部分代码
